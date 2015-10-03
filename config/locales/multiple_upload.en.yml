@@ -1,0 +1,10 @@
+en:
+  admin:
+    actions:
+      multiple_upload:
+        title: "Multiple Upload"
+        menu: "Multiple Upload for %{model_label} '%{object_label}'"
+        breadcrumb: "Multiple Upload"
+        link: "Multiple Upload"
+        bulk_link: "Multiple Upload selected %{model_label_plural}"
+        done: "Multiple Uploaded"

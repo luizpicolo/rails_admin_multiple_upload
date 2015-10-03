@@ -1,0 +1,6 @@
+= simple_form_for(rails_admin.multiple_upload_url(@abstract_model.to_param, id: @object.id), html: { multipart: true }) do |f|
+  = f.input :id, :as => :hidden, :input_html => { :name => "id", :value => @object.id }
+  = file_field_tag('multi_uploads', multiple: true, id: 'fileupload', name: "#{@object.class.name.downcase}[second_attr][]")
+  %br
+  %br
+  = f.submit :submit, value: 'Upload', name: 'Upload', :class => 'btn btn-primary'

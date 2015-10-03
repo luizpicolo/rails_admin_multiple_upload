@@ -1,0 +1,10 @@
+pt-BR:
+  admin:
+    actions:
+      multiple_upload:
+        title: "Envio de imagens"
+        menu: "Enviar imagens para %{model_label} '%{object_label}'"
+        breadcrumb: "Envio de imagens"
+        link: "Envio de imagens"
+        bulk_link: "Envio de imagens selecionado %{model_label_plural}"
+        done: "Imagens enviadas"
