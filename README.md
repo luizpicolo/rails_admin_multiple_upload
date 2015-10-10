@@ -6,7 +6,7 @@ Helper gem, used to add a custom action to RailsAdmin for multiple file uploadin
 
 Clone repository in your project    
 
-    git clone git@github.com:luizpicolo/rails_admin_multiple_uploads.git
+    git clone git@github.com:luizpicolo/rails_admin_multiple_upload.git
 
 Add in Gemfile (Path is important)
 
