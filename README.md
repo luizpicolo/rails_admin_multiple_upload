@@ -1,3 +1,8 @@
+# THIS PROJECT HAS BEEN DISCONTINUED
+
+I recommend the rails_admin_dropzone    
+https://github.com/luizpicolo/rails_admin_dropzone
+
 # Custom Action to RailsAdmin with Html 5 Multiple File Upload
 
 Helper gem, used to add a custom action to RailsAdmin for multiple file uploading to a photo gallery.
