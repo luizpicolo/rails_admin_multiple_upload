@@ -15,6 +15,7 @@ Clone repository in your project
 
 Add in Gemfile (Path is important)
 
+    gem 'dropzonejs-rails'
     gem 'rails_admin_multiple_upload', path: 'rails_admin_multiple_upload'
 
 Enter the folder `rails_admin_multiple_upload/lib/rails_admin_multiple_upload.rb` and modify this line with yours attributes
